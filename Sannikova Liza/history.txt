@@ -1,0 +1,6 @@
+cd "Sannikova Liza"
+type  textdoc.txt
+sort textdoc.txt
+sort textdoc.txt > textttt.txt
+doskey /history
+doskey /history > history.txt
